@@ -11,3 +11,8 @@ Pierwszy projekt
 curl -I
 ## Najczęstsze komendy
 ## Deployment
+  1. Zainstaluje:
+  ,,,,,
+  2. Sprawdź czy działa
+  ,,,,
+  curl api.exmple.com
