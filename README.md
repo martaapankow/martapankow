@@ -1,6 +1,6 @@
 #Nauka gita
 Pierwszy projekt
-##Ulubione
+##Ulubione komendy
 
     git status
     ## Najcze
@@ -10,3 +10,4 @@ Pierwszy projekt
 
 curl -I
 ## Najczęstsze komendy
+## Deployment
